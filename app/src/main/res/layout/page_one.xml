@@ -29,6 +29,7 @@
         android:textSize="20sp"
         android:textStyle="bold"
         android:text="Add"
+        android:textColor="#f9f9f9"
         android:backgroundTint="#D64045"/>
 
     <CheckBox
